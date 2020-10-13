@@ -1,8 +1,6 @@
 #Application Configuration
 server:
   port: 8093
-  servlet:
-    contextPath: "/shopping"
   error:
     include-message: always
     include-binding-errors: always
